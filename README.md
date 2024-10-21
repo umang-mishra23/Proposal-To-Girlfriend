@@ -2,7 +2,7 @@
 A creative code-based proposal project to surprise your girlfriend with an interactive and personalized experience. Includes customizable messages, fun animations, and a heartwarming final proposal!".
 
 
-![Header](./github-header-image (1).png)
+![Header](./github-header-image(1).png)
 <h1 align="center">Hi 👋, I'm Umang Mishra</h1>
 <h3 align="center">A passionate Aspiring Red Hat Penetration Tester</h3>
 <img align = "right" alt = "coding"  width="400" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
