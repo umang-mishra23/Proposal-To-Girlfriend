@@ -1,0 +1,64 @@
+body,
+p,
+#main,
+#canvas,
+#letter,
+#clock-box {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #ffe;
+  font: 30px/1.4 sans-serif;
+}
+
+#main,
+#canvas {
+  width: 1100px;
+  height: 680px;
+}
+
+#main {
+  position: relative;
+}
+
+#letter {
+  position: absolute;
+  width: 400px;
+  height: 425px;
+  left: 50px;
+  top: 80px;
+  display: none;
+  font-size: 20px;
+  font-family: "Gupter", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ed13a5;
+  text-shadow: black;
+}
+
+#clock-box {
+  position: absolute;
+  left: 60px;
+  top: 550px;
+  font-size: 28px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+#clock-text {
+  color: gray;
+}
+
+.name {
+  color: black;
+}
+
+#clock {
+  margin-left: 48px;
+}
+
+#clock .digit {
+  font-size: 64px;
+}
